@@ -1,1 +1,3 @@
-IyBHLU5FVC05MS1MaW5xMDEg4oCUIExJTlEgQXNzaWdubWVudCAoU2Vzc2lvbiAwMSkKCkxJTlEgcXVlcmllcyBvbiB0aGUgUHJvZHVjdHMgYW5kIEN1c3RvbWVycyBkYXRhIGdpdmVuIGluIHRoZSBzZXNzaW9uLgo=
+# G-NET-91-Linq01 — LINQ Assignment (Session 01)
+
+LINQ queries on the Products and Customers data given in the session.
